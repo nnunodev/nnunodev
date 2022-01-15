@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnunodev
-- 👀 I’m interested in Web and game development :) 
+- 👀 I’m interested in Web and Game development :) 
 - 🌱 I’m currently learning React
 
 <!---
