@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nnunodev
 - 👀 I’m interested in Web and Game development :) 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning GO
 
 <!---
 nnunodev/nnunodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
