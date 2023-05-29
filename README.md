@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nnunodev
 - 👀 I’m a QA Automation engineer and a hobbyist Game developer :) 
-- 🌱 I’m currently learning libgdx 
+- 🌱 I love retro gaming and I’m currently learning libgdx
 
 <!---
 nnunodev/nnunodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
