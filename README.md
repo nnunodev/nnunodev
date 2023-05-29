@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nnunodev
-- 👀 I’m a QA Automation engineer and a hobbyist Game developeer :) 
+- 👀 I’m a QA Automation engineer and a hobbyist Game developer :) 
 - 🌱 I’m currently learning libgdx 
 
 <!---
