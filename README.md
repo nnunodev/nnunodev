@@ -25,4 +25,4 @@ daily driver: arch (cachyos) / fish / kitty / neovim
 
 ## elsewhere
 
-🎮 retro repair & collection (C64, Amiga, DS, PS2)
+<img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='20' height='20'><rect width='24' height='24' rx='4' fill='%230044AA'/><rect x='2' y='2' width='8' height='8' fill='%23FF8800'/><rect x='14' y='2' width='8' height='8' fill='%230044AA'/><rect x='2' y='14' width='8' height='8' fill='%230044AA'/><rect x='14' y='14' width='8' height='8' fill='%23FF8800'/><rect x='6' y='10' width='12' height='4' rx='1' fill='%23fff'/><text x='12' y='13' font-size='3.5' fill='%230044AA' text-anchor='middle' font-family='monospace' font-weight='bold'>WB</text></svg" alt="Workbench" style="vertical-align: middle; margin-right: 4px;"> Commodore Amiga enthusiast & retro repair (C64, DS, PS2)
