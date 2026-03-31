@@ -25,4 +25,4 @@ daily driver: arch (cachyos) / fish / kitty / neovim
 
 ## elsewhere
 
-<img src="amiga-ball.svg" alt="Amiga" width="24" style="vertical-align: middle; margin-right: 4px;"> Commodore Amiga enthusiast & retro repair
+Commodore Amiga enthusiast & retro repair
