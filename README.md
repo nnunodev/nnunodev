@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @nnunodev
-- 👀 I’m a QA Automation engineer and a Full Stack Developer :) 
-- 🌱 I love retro gaming and I’m currently learning Spring Boot
+<img align="right" src="avatar.svg" width="200">
 
-<!---
-nnunodev/nnunodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi, i'm nuno.
+
+i build tools, games, and automated pipelines -- mostly in Python, Go, and GDScript.
+
+not currently looking for work. shipping things that interest me.
+
+## what i'm working on
+
+### tools
+- **[usage-checker](https://github.com/nnunodev/usage-checker)** -- CLI dashboard for AI provider billing. One command instead of 4 browser tabs. Python + Rich TUI.
+- **[ravn](https://github.com/nnunodev/ravn)** -- AI agent distribution framework. Drops into any repo, dispatches work to agents via Linear tickets. Go.
+- **[voidnews](https://github.com/nnunodev/voidnews)** -- Minimal Miniflux reader, phone-friendly morning reading. Next.js + TypeScript.
+
+### games
+- **[caveborn](https://github.com/nnunodev/caveborn)** -- Retro falling-rocks puzzle game. Dig, collect, survive. Godot 4.6, pixel art.
+
+### automation
+- **[scanlinestudio](https://github.com/nnunodev/scanlinestudio)** -- Automated POD t-shirt pipeline. AI generates designs, I approve via Discord, publishes to Printify.
+- **[social](https://github.com/nnunodev/social)** -- Scheduled tweet pipeline with AI drafting.
+
+## stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%204-478CBF?logo=godotengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+daily driver: arch (cachyos) / fish / kitty / neovim
+
+## elsewhere
+
+🎮 retro repair & collection (C64, Amiga, DS, PS2)
