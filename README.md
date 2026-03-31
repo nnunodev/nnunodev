@@ -1,10 +1,6 @@
-<img align="right" src="avatar.svg" width="200">
-
 hi, i'm nuno.
 
 i build tools, games, and automated pipelines -- mostly in Python, Go, and GDScript.
-
-not currently looking for work. shipping things that interest me.
 
 ## what i'm working on
 
@@ -15,10 +11,6 @@ not currently looking for work. shipping things that interest me.
 
 ### games
 - **[caveborn](https://github.com/nnunodev/caveborn)** -- Retro falling-rocks puzzle game. Dig, collect, survive. Godot 4.6, pixel art.
-
-### automation
-- **[scanlinestudio](https://github.com/nnunodev/scanlinestudio)** -- Automated POD t-shirt pipeline. AI generates designs, I approve via Discord, publishes to Printify.
-- **[social](https://github.com/nnunodev/social)** -- Scheduled tweet pipeline with AI drafting.
 
 ## stack
 
