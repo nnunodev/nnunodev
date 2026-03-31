@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20">
+  <rect width="24" height="24" rx="3" fill="#0044AA"/>
+  <rect x="1" y="1" width="5" height="5" fill="#FF8800"/>
+  <rect x="7" y="1" width="5" height="5" fill="#0044AA"/>
+  <rect x="13" y="1" width="5" height="5" fill="#FF8800"/>
+  <rect x="19" y="1" width="4" height="5" fill="#0044AA"/>
+  <rect x="1" y="7" width="5" height="5" fill="#0044AA"/>
+  <rect x="7" y="7" width="5" height="5" fill="#FF8800"/>
+  <rect x="13" y="7" width="5" height="5" fill="#0044AA"/>
+  <rect x="19" y="7" width="4" height="5" fill="#FF8800"/>
+  <rect x="1" y="13" width="5" height="5" fill="#FF8800"/>
+  <rect x="7" y="13" width="5" height="5" fill="#0044AA"/>
+  <rect x="13" y="13" width="5" height="5" fill="#FF8800"/>
+  <rect x="19" y="13" width="4" height="5" fill="#0044AA"/>
+  <rect x="1" y="18" width="22" height="5" rx="1" fill="#fff"/>
+  <text x="12" y="22.5" font-size="5" fill="#0044AA" text-anchor="middle" font-family="monospace" font-weight="bold">WB</text>
+</svg>
