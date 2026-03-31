@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <clipPath id="ball">
+      <circle cx="50" cy="50" r="46"/>
+    </clipPath>
+    <radialGradient id="shine" cx="35%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.3)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.15)"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#ball)">
+    <!-- Red base -->
+    <rect x="0" y="0" width="100" height="100" fill="#CC0000"/>
+    <!-- White stripes - vertical bands with perspective -->
+    <rect x="5" y="0" width="12" height="100" fill="#FFFFFF"/>
+    <rect x="29" y="0" width="12" height="100" fill="#FFFFFF"/>
+    <rect x="53" y="0" width="12" height="100" fill="#FFFFFF"/>
+    <rect x="77" y="0" width="12" height="100" fill="#FFFFFF"/>
+    <!-- Shading overlay -->
+    <circle cx="50" cy="50" r="46" fill="url(#shine)"/>
+    <!-- Highlight -->
+    <ellipse cx="36" cy="34" rx="14" ry="10" fill="rgba(255,255,255,0.25)"/>
+  </g>
+  <!-- Ball outline -->
+  <circle cx="50" cy="50" r="46" fill="none" stroke="#880000" stroke-width="2"/>
+</svg>
