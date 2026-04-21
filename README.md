@@ -7,11 +7,7 @@ i build tools, games, and automated pipelines -- mostly in Python, Go, and GDScr
 ### tools
 - **[burnr](https://github.com/nnunodev/burnr)** -- CLI dashboard for AI provider billing. One command instead of 4 browser tabs. Python + Rich TUI.
 - **[ravn](https://github.com/nnunodev/ravn)** -- AI agent distribution framework. Drops into any repo, dispatches work to agents via Linear tickets. Go.
-- **[voidnews](https://github.com/nnunodev/voidnews)** -- Minimal Miniflux reader, phone-friendly morning reading. Next.js + TypeScript.
-
-### games
-- **[caveborn](https://github.com/nnunodev/caveborn)** -- Retro falling-rocks puzzle game. Dig, collect, survive. Godot 4.6, pixel art.
-
+- 
 ## stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
