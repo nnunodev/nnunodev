@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/L%C3%96VE2D-EA316E?style=flat-square&logo=lua&logoColor=white" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=building+CLI+tools+with+rich+TUI;fixing+FLAC+metadata+at+3am;ASCII+roguelikes+in+love2d;self-hosting+everything)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=building+CLI+tools+with+rich+TUI;fixing+FLAC+metadata+at+3am;ASCII+roguelikes+in+love2d;self-hosting+everything)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,11 +26,11 @@ self-hosted infrastructure and getting back slowly to gamedev.
 
 | 🛠️ Tool | 📝 Desc | 🔧 Stack |
 |---------|---------|----------|
-| **burnr** | AI billing dashboard in the terminal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rich-000000?style=flat" /> |
-| **ravn** | Agent work distribution via Linear | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> |
-| **soundaudit** | Music library auditor + fingerprinting | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Typer-000000?style=flat" /> <img src="https://img.shields.io/badge/Mutagen-2C3E50?style=flat" /> |
+| [**burnr**](https://github.com/nnunodev/burnr) | AI billing dashboard in the terminal | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rich-000000?style=flat" /> |
+| [**ravn**](https://github.com/nnunodev/ravn) | Agent work distribution via Linear | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> |
+| [**soundaudit**](https://github.com/nnunodev/soundaudit) | Music library auditor + fingerprinting | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Typer-000000?style=flat" /> <img src="https://img.shields.io/badge/Mutagen-2C3E50?style=flat" /> |
 | **outpost-zero** | ASCII survival roguelike | <img src="https://img.shields.io/badge/L%C3%96VE2D-EA316E?style=flat&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /> |
-| **cronwatch** | TUI to check running cron jobs | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> |
+| [**cronwatch**](https://github.com/nnunodev/cronwatch) | TUI to check running cron jobs | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> |
 
 ---
 
