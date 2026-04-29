@@ -13,6 +13,15 @@
 
 ---
 
+## `~/about`
+
+```
+Test Automation Engineer / Full Stack Developer building CLI tools, 
+self-hosted infrastructure and getting back slowly to gamedev.
+```
+
+---
+
 ## `~/projects`
 
 | 🛠️ Tool | 📝 Desc | 🔧 Stack |
