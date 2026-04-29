@@ -47,11 +47,11 @@ self-hosted infrastructure and getting back slowly to gamedev.
 
 ## `~/interests`
 
-```
-🎵 digital music hoarder
-🏠 self-hosting enthusiast
-🎮 retrogaming lover (Amiga)
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/digital_music_hoarder-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/self--hosting_enthusiast-FF6B6B?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/retrogaming_lover_(Amiga)-5865F2?style=flat-square&logo=commodore&logoColor=white" />
+</p>
 
 ---
 
