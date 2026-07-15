@@ -1,4 +1,12 @@
-# nnunodev
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:10b981&height=160&section=header&text=nnunodev&fontSize=56&fontColor=ffffff&animation=fadeIn)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-000000?style=flat-square)
+![Rich](https://img.shields.io/badge/Rich-000000?style=flat-square)
+
+## About
 
 I build practical software: CLI tools, self-hosted infrastructure, and automation that removes friction.
 
@@ -18,3 +26,5 @@ Currently focused on:
 - self-hosting
 - automation
 - retro and small-scale game dev
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:3b82f6,100:8b5cf6&height=90&section=footer)
