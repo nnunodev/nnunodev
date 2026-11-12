@@ -1,6 +1,6 @@
 # Nuno Nunes
 
-Software developer — Python, Go, Linux.
+Software developer - Python, Java, Go, Linux.
 
 [LinkedIn](https://www.linkedin.com/in/nuno-nunes/) · [soundaudit on PyPI](https://pypi.org/project/soundaudit/)
 
@@ -34,9 +34,9 @@ Published on PyPI, MIT licensed.
 ### Currently
 
 - Higher Diploma in Computing (AI & ML), National College of Ireland
-- Writing Go and Python, learning Java
+- Writing new things
 - Running a Linux homelab: Docker, Caddy, monitoring, backups
 
 ### Elsewhere
 
-Linux · self-hosting · retro computing (Amiga, C64) · game development · music
+Linux · self-hosting · retro computing (Amiga, C64) · game development
