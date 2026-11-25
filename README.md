@@ -1,6 +1,6 @@
 # Nuno Nunes
 
-Software developer - Python, Java, Go, Linux.
+Software developer/Automation Engineer
 
 [LinkedIn](https://www.linkedin.com/in/nuno-nunes/) · [soundaudit on PyPI](https://pypi.org/project/soundaudit/)
 
